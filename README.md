@@ -1,2 +1,2 @@
-🏦 Banking Management System
+# Banking Management System
 The Banking Management System is a simple Java-based console application that simulates essential banking operations such as account creation, deposits, withdrawals, balance inquiries, fund transfers, and account deletion. Developed using Core Java and MySQL, the system uses JDBC (Java Database Connectivity) to perform seamless interactions with the database. It follows object-oriented principles and demonstrates how to build CRUD-based applications while maintaining transactional accuracy and data persistence. This project is ideal for beginners looking to understand Java programming, database integration, and the implementation of backend logic in financial applications.
